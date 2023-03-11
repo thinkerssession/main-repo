@@ -1,6 +1,7 @@
 # Edu-App
 
 #INTRODUCTION
+
 This Repository is created for the purpose of gathering ideas on developing an education platform to solve some basic problems in education.
 
 Introducing EduFix, the revolutionary platform designed to solve educational challenges across Africa. EduFix is an online platform that provides innovative solutions to problems faced by students, teachers, and educational institutions across the continent. One of the key issues EduFix addresses is absenteeism on the part of teachers. Many schools in Africa struggle with a shortage of qualified teachers, and even when teachers are available, they may not always show up for work. 
