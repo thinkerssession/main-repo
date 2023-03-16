@@ -1,4 +1,4 @@
-# A Repo to to Record problems and Solutions
+# A Repo to to Record **Problems** and their **Solutions**
 
 ## Resources for Contributors.
 
